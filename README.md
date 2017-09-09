@@ -5,5 +5,5 @@ Web Design
 ## Web Copy Study
 ### HTML5 & CSS3 & JQUERY
 ```
-http://exampleedit.com
+http://github.com/tjdbsk2017/example
 ```
