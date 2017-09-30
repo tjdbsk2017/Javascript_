@@ -1,9 +1,5 @@
-# example
-Web Design
-
-# Study
-## Web Copy Study
-### HTML5 & CSS3 & JQUERY
+#Javascript
+##study
 ```
 http://github.com/tjdbsk2017/example
 ```
